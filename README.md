@@ -1,4 +1,4 @@
-# **Inventory Management System for Indore Municipal Corporation: Stock Pile Indore (SPI)**
+# *Inventory Management System for Indore Municipal Corporation: Stock Pile Indore (SPI)*
 
 **Overview:**
 Our project enhances the inventory management capabilities for the Indore Municipal Corporation by delivering a sophisticated, user-centric web application. This platform streamlines the management of inventory data, encompassing product numbers, financial metrics, and operational status.
